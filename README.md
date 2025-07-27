@@ -5,7 +5,7 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 ## 🔩 BLIP-2 Bolt & Nut Demo
 ## Arduino project and pcb repairing
 
-![20150202_214514--antony sew mc board.jpg](https://github.com/eric1111208/Project-history/edit/main/20150202_214514--antony%20sew%20mc%20board.jpg)
+![20150202_214514--antony sew mc board.jpg](https://github.com/eric1111208/Project-history/main/20150202_214514--antony%20sew%20mc%20board.jpg)
 bbbb
 
 [▶️ 20160419_002946.mp4](https://youtube.com/watch?v=20160419_002946)
@@ -14,50 +14,50 @@ bbbb
 [▶️ 20170410_111849.mp4](https://youtube.com/watch?v=20170410_111849)
 bbbb
 
-![20170512_101035.jpg](https://github.com/eric1111208/Project-history/edit/main/20170512_101035.jpg)
+![20170512_101035.jpg](https://github.com/eric1111208/Project-history/main/20170512_101035.jpg)
 bbbb
 
 [▶️ 20170519_094810.mp4](https://youtube.com/watch?v=20170519_094810)
 bbbb
 
-![20170519_154225.jpg](https://github.com/eric1111208/Project-history/edit/main/20170519_154225.jpg)
+![20170519_154225.jpg](https://github.com/eric1111208/Project-history/main/20170519_154225.jpg)
 bbbb
 
-![IMG-20211204-WA0017.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20211204-WA0017.jpg)
+![IMG-20211204-WA0017.jpg](https://github.com/eric1111208/Project-history/main/IMG-20211204-WA0017.jpg)
 bbbb
 
-![IMG-20211204-WA0036.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20211204-WA0036.jpg)
+![IMG-20211204-WA0036.jpg](https://github.com/eric1111208/Project-history/main/IMG-20211204-WA0036.jpg)
 bbbb
 
 ## Co-Design for metal plate current  heating prototype
 
-![IMG-20231012-WA0019.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20231012-WA0019.jpg)
+![IMG-20231012-WA0019.jpg](https://github.com/eric1111208/Project-history/main/IMG-20231012-WA0019.jpg)
 bbbb
 
-![IMG-20231207-WA0016.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20231207-WA0016.jpg)
+![IMG-20231207-WA0016.jpg](https://github.com/eric1111208/Project-history/main/IMG-20231207-WA0016.jpg)
 bbbb
 
-![IMG-20231208-WA0007.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20231208-WA0007.jpg)
+![IMG-20231208-WA0007.jpg](https://github.com/eric1111208/Project-history/main/IMG-20231208-WA0007.jpg)
 bbbb
 
-![IMG-20231208-WA0008.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20231208-WA0008.jpg)
+![IMG-20231208-WA0008.jpg](https://github.com/eric1111208/Project-history/main/IMG-20231208-WA0008.jpg)
 bbbb
 
-![IMG-20240103-WA0028.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20240103-WA0028.jpg)
+![IMG-20240103-WA0028.jpg](https://github.com/eric1111208/Project-history/main/IMG-20240103-WA0028.jpg)
 bbbb
 
 ## Control system modification for 3 sets of sheet bending machine 
 
-![IMG-20231129-WA0028.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20231129-WA0028.jpg)
+![IMG-20231129-WA0028.jpg](https://github.com/eric1111208/Project-history/main/IMG-20231129-WA0028.jpg)
 bbbb
 
-![IMG-20240202-WA0010.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20240202-WA0010.jpg)
+![IMG-20240202-WA0010.jpg](https://github.com/eric1111208/Project-history/main/IMG-20240202-WA0010.jpg)
 bbbb
 
-![IMG-20240202-WA0021.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20240202-WA0021.jpg)
+![IMG-20240202-WA0021.jpg](https://github.com/eric1111208/Project-history/main/IMG-20240202-WA0021.jpg)
 bbbb
 
-![IMG-20240729-WA0010.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20240729-WA0010.jpg)
+![IMG-20240729-WA0010.jpg](https://github.com/eric1111208/Project-history/main/IMG-20240729-WA0010.jpg)
 bbbb
 
 [▶️ VID-20240124-WA0011.mp4](https://youtube.com/watch?v=VID-20240124-WA0011)
@@ -107,30 +107,30 @@ bbbb
 [▶️ 20161123_134735.mp4](https://youtube.com/watch?v=20161123_134735)
 bbbb
 
-![20170501_133906.jpg](https://github.com/eric1111208/Project-history/edit/main/20170501_133906.jpg)
+![20170501_133906.jpg](https://github.com/eric1111208/Project-history/main/20170501_133906.jpg)
 bbbb
 
-![20170501_134920.jpg](https://github.com/eric1111208/Project-history/edit/main/20170501_134920.jpg)
+![20170501_134920.jpg](https://github.com/eric1111208/Project-history/main/20170501_134920.jpg)
 bbbb
 
-![20170501_134946.jpg](https://github.com/eric1111208/Project-history/edit/main/20170501_134946.jpg)
+![20170501_134946.jpg](https://github.com/eric1111208/Project-history/main/20170501_134946.jpg)
 bbbb
 
 [▶️ 20170501_140427.mp4](https://youtube.com/watch?v=20170501_140427)
 bbbb
 
-![20170501_140458.jpg](https://github.com/eric1111208/Project-history/edit/main/20170501_140458.jpg)
+![20170501_140458.jpg](https://github.com/eric1111208/Project-history/main/20170501_140458.jpg)
 bbbb
 
-![20170501_140811.jpg](https://github.com/eric1111208/Project-history/edit/main/20170501_140811.jpg)
+![20170501_140811.jpg](https://github.com/eric1111208/Project-history/main/20170501_140811.jpg)
 bbbb
 
 ## Design and build for a set of auto feed wood profile turning machine
 
-![IMG-20211103-WA0028.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20211103-WA0028.jpg)
+![IMG-20211103-WA0028.jpg](https://github.com/eric1111208/Project-history/main/IMG-20211103-WA0028.jpg)
 bbbb
 
-![IMG-20211117-WA0013.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20211117-WA0013.jpg)
+![IMG-20211117-WA0013.jpg](https://github.com/eric1111208/Project-history/main/IMG-20211117-WA0013.jpg)
 bbbb
 
 [▶️ VID_20211013_182437_compressed.mp4](https://youtube.com/watch?v=VID_20211013_182437_compressed)
@@ -141,10 +141,10 @@ bbbb
 
 ## Design and build for water misting prototype
 
-![IMG20230327092650.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG20230327092650.jpg)
+![IMG20230327092650.jpg](https://github.com/eric1111208/Project-history/main/IMG20230327092650.jpg)
 bbbb
 
-![IMG20230518212115.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG20230518212115.jpg)
+![IMG20230518212115.jpg](https://github.com/eric1111208/Project-history/main/IMG20230518212115.jpg)
 bbbb
 
 [▶️ VID20230103192935.mp4](https://youtube.com/watch?v=VID20230103192935)
@@ -161,16 +161,16 @@ bbbb
 
 ## Design and build of 1 set agriculture used Auto spray water cart
 
-![IMG-20210327-WA0011.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20210327-WA0011.jpg)
+![IMG-20210327-WA0011.jpg](https://github.com/eric1111208/Project-history/main/IMG-20210327-WA0011.jpg)
 bbbb
 
-![IMG-20220214-WA0034.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20220214-WA0034.jpg)
+![IMG-20220214-WA0034.jpg](https://github.com/eric1111208/Project-history/main/IMG-20220214-WA0034.jpg)
 bbbb
 
-![IMG-20230515-WA0008.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20230515-WA0008.jpg)
+![IMG-20230515-WA0008.jpg](https://github.com/eric1111208/Project-history/main/IMG-20230515-WA0008.jpg)
 bbbb
 
-![IMG-20230515-WA0009.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20230515-WA0009.jpg)
+![IMG-20230515-WA0009.jpg](https://github.com/eric1111208/Project-history/main/IMG-20230515-WA0009.jpg)
 bbbb
 
 [▶️ VID20230114142040.mp4](https://youtube.com/watch?v=VID20230114142040)
@@ -191,7 +191,7 @@ bbbb
 
 ## Design for system a fast tearing shredder machine
 
-![IMG-20221222-WA0056.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20221222-WA0056.jpg)
+![IMG-20221222-WA0056.jpg](https://github.com/eric1111208/Project-history/main/IMG-20221222-WA0056.jpg)
 bbbb
 
 [▶️ VID-20221229-WA0003.mp4](https://youtube.com/watch?v=VID-20221229-WA0003)
@@ -208,7 +208,7 @@ bbbb
 
 ## project of fogging handheld improvement demo
 
-![IMG-20221001-WA0029.jpg](https://github.com/eric1111208/Project-history/edit/main/IMG-20221001-WA0029.jpg)
+![IMG-20221001-WA0029.jpg](https://github.com/eric1111208/Project-history/main/IMG-20221001-WA0029.jpg)
 bbbb
 
 [▶️ VID20230805000519.mp4](https://youtube.com/watch?v=VID20230805000519)
