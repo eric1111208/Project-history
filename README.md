@@ -8,10 +8,10 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 ![20150202_214514--antony sew mc board.jpg](https://github.com/eric1111208/Project-history/raw/main/20150202_214514--antony%20sew%20mc%20board.jpg)
 
 
-[▶️ 20160419_002946.mp4](https://youtube.com/watch?v=20160419_002946)
+[▶️ 20160419_002946.mp4](https://youtube.com/shorts/GKVjsKTTdxI?feature=share)
 bbbb
 
-[▶️ 20170410_111849.mp4](https://youtu.be/RDeboo0TuE0)
+[▶️ 20170410_111849.mp4](https://youtube.com/watch?v=20170410_111849)
 bbbb
 
 ![20170512_101035.jpg](https://github.com/eric1111208/Project-history/raw/main/20170512_101035.jpg)
@@ -77,13 +77,13 @@ bbbb
 [▶️ VID20240318134046.mp4](https://youtube.com/watch?v=VID20240318134046)
 bbbb
 
-[▶️ VID20240405170811.mp4](https://youtu.be/uU1bqaZfCtg)
+[▶️ VID20240405170811.mp4](https://youtube.com/watch?v=VID20240405170811)
 bbbb
 
-[▶️ VID20240405171247.mp4](https://youtu.be/ZCIW-cH3Q1Q)
+[▶️ VID20240405171247.mp4](https://youtube.com/watch?v=VID20240405171247)
 bbbb
-![VID20240405171347.png](https://youtu.be/Mu7Ek35HVEY)
-[▶️ VID20240405171347.mp4](https://youtu.be/Mu7Ek35HVEY)
+
+[▶️ VID20240405171347.mp4](https://youtube.com/watch?v=VID20240405171347)
 bbbb
 
 [▶️ VID20240419140426.mp4](https://youtube.com/watch?v=VID20240419140426)
@@ -135,10 +135,10 @@ bbbb
 ![IMG-20211117-WA0013.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20211117-WA0013.jpg)
 bbbb
 
-[▶️ VID_20211013_182437_compressed.mp4](https://youtube.com/watch?v=VID_20211013_182437_compressed)
+[▶️ VID_20211013_182437_compressed.mp4](https://youtube.com/shorts/ERhiFbkQPME)
 bbbb
 
-[▶️ VID_20211030_153307_compressed.mp4](https://youtube.com/watch?v=VID_20211030_153307_compressed)
+[▶️ VID_20211030_153307_compressed.mp4](https://youtube.com/shorts/LoDVVF6CyJM)
 bbbb
 
 ## Design and build for water mist prototype
@@ -149,10 +149,10 @@ bbbb
 ![IMG20230518212115.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG20230518212115.jpg)
 bbbb
 
-[▶️ VID20230103192935.mp4](https://youtube.com/watch?v=VID20230103192935)
+[▶️ VID20230103192935.mp4](https://youtube.com/shorts/Z8j4QaL_sjs)
 bbbb
 
-[▶️ VID20230103193110.mp4](https://youtube.com/watch?v=VID20230103193110)
+[▶️ VID20230103193110.mp4](https://youtube.com/shorts/uF586LxyNMs)
 bbbb
 
 [▶️ VID20230314094243.mp4](https://youtube.com/watch?v=VID20230314094243)
@@ -178,7 +178,7 @@ bbbb
 [▶️ VID20230114142040.mp4](https://youtube.com/watch?v=VID20230114142040)
 bbbb
 
-[▶️ VID_20220401_172010.mp4](https://youtube.com/watch?v=VID_20220401_172010)
+[▶️ VID_20220401_172010.mp4](https://youtube.com/shorts/5KLIw6xYNqE)
 bbbb
 
 ## Design and modify to automate the rod forging and bending machine 
@@ -188,7 +188,7 @@ bbbb
 
 ## Design for Monorail Bogie Mechanical system tester 
 
-[▶️ 20140925_171340.mp4](https://youtube.com/watch?v=20140925_171340)
+[▶️ 20140925_171340.mp4](https://youtube.com/shorts/4mhhAIfNYm8)
 bbbb
 
 ## Design for system a fast tearing shredder machine
@@ -196,16 +196,16 @@ bbbb
 ![IMG-20221222-WA0056.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20221222-WA0056.jpg)
 bbbb
 
-[▶️ VID-20221229-WA0003.mp4](https://youtube.com/watch?v=VID-20221229-WA0003)
+[▶️ VID-20221229-WA0003.mp4](https://youtube.com/shorts/h95cuClcjUg)
 bbbb
 
-[▶️ VID-20221230-WA0001.mp4](https://youtube.com/watch?v=VID-20221230-WA0001)
+[▶️ VID-20221230-WA0001.mp4](https://youtube.com/shorts/yg_HtFmRZPA)
 bbbb
 
 [▶️ VID-20230112-WA0017.mp4](https://youtube.com/watch?v=VID-20230112-WA0017)
 bbbb
 
-[▶️ VID20230112150513.mp4](https://youtube.com/watch?v=VID20230112150513)
+[▶️ VID20230112150513.mp4](https://youtube.com/shorts/R8JoEZ_8bhc)
 bbbb
 
 ## project of fogging handheld improvement demo
@@ -221,3 +221,5 @@ bbbb
 ## 📂 Project Repository
 
 Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut/)
+
+
