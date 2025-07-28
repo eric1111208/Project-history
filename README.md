@@ -29,24 +29,6 @@ bbbb
 ![IMG-20211204-WA0036.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20211204-WA0036.jpg)
 bbbb
 
-## Co-Design for metal plate current  heating prototype
-## contact <cschew@live.com.my> and SIRIM Haniff,Faizal for further convincing development.
-
-![IMG-20231012-WA0019.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231012-WA0019.jpg)
-bbbb
-
-![IMG-20231207-WA0016.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231207-WA0016.jpg)
-bbbb
-
-![IMG-20231208-WA0007.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231208-WA0007.jpg)
-bbbb
-
-![IMG-20231208-WA0008.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231208-WA0008.jpg)
-bbbb
-
-![IMG-20240103-WA0028.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20240103-WA0028.jpg)
-bbbb
-
 ## Control system modification for 3 sets of sheet bending machine 
 ## 	contact <cschew@live.com.my> and AKA, Ah Wai for further convincing development.
 
@@ -96,6 +78,24 @@ bbbb
 bbbb
 
 [▶️ ideo_20240817_185626_compressed.mp4](https://youtube.com/watch?v=ideo_20240817_185626_compressed)
+bbbb
+
+## Co-Design for metal plate current  heating prototype
+## contact <cschew@live.com.my> and SIRIM Haniff,Faizal for further convincing development.
+
+![IMG-20231012-WA0019.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231012-WA0019.jpg)
+bbbb
+
+![IMG-20231207-WA0016.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231207-WA0016.jpg)
+bbbb
+
+![IMG-20231208-WA0007.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231208-WA0007.jpg)
+bbbb
+
+![IMG-20231208-WA0008.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231208-WA0008.jpg)
+bbbb
+
+![IMG-20240103-WA0028.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20240103-WA0028.jpg)
 bbbb
 
 ## Design and build for 1 set of viscosity liquid  volume control dispensing machine
