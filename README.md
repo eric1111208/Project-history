@@ -11,7 +11,7 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 [▶️ 20160419_002946.mp4](https://youtube.com/watch?v=20160419_002946)
 bbbb
 
-[▶️ 20170410_111849.mp4](https://youtube.com/watch?v=20170410_111849)
+[▶️ 20170410_111849.mp4](https://youtu.be/RDeboo0TuE0)
 bbbb
 
 ![20170512_101035.jpg](https://github.com/eric1111208/Project-history/raw/main/20170512_101035.jpg)
@@ -77,13 +77,13 @@ bbbb
 [▶️ VID20240318134046.mp4](https://youtube.com/watch?v=VID20240318134046)
 bbbb
 
-[▶️ VID20240405170811.mp4](https://youtube.com/watch?v=VID20240405170811)
+[▶️ VID20240405170811.mp4](https://youtu.be/uU1bqaZfCtg)
 bbbb
 
-[▶️ VID20240405171247.mp4](https://youtube.com/watch?v=VID20240405171247)
+[▶️ VID20240405171247.mp4](https://youtu.be/ZCIW-cH3Q1Q)
 bbbb
 
-[▶️ VID20240405171347.mp4](https://youtube.com/watch?v=VID20240405171347)
+[▶️ VID20240405171347.mp4](https://youtu.be/Mu7Ek35HVEY)
 bbbb
 
 [▶️ VID20240419140426.mp4](https://youtube.com/watch?v=VID20240419140426)
