@@ -6,7 +6,7 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 ## Arduino project and pcb repairing
 
 ![20150202_214514--antony sew mc board.jpg](https://github.com/eric1111208/Project-history/raw/main/20150202_214514--antony%20sew%20mc%20board.jpg)
-bbbb
+
 
 [▶️ 20160419_002946.mp4](https://youtube.com/watch?v=20160419_002946)
 bbbb
@@ -30,6 +30,7 @@ bbbb
 bbbb
 
 ## Co-Design for metal plate current  heating prototype
+## contact <cschew@live.com.my> and SIRIM Haniff,Faizal for further convincing development.
 
 ![IMG-20231012-WA0019.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231012-WA0019.jpg)
 bbbb
@@ -47,6 +48,7 @@ bbbb
 bbbb
 
 ## Control system modification for 3 sets of sheet bending machine 
+## 	contact <cschew@live.com.my> and AKA, Ah Wai for further convincing development.
 
 ![IMG-20231129-WA0028.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20231129-WA0028.jpg)
 bbbb
@@ -139,8 +141,8 @@ bbbb
 [▶️ VID_20211030_153307_compressed.mp4](https://youtube.com/watch?v=VID_20211030_153307_compressed)
 bbbb
 
-## Design and build for water misting prototype
-
+## Design and build for water mist prototype
+## contact <cschew@live.com.my> for further convincing development.
 ![IMG20230327092650.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG20230327092650.jpg)
 bbbb
 
@@ -160,7 +162,7 @@ bbbb
 bbbb
 
 ## Design and build of 1 set agriculture used Auto spray water cart
-
+## Contact Ah Bin hanswongbh@hotmail.com for further convincing development.
 ![IMG-20210327-WA0011.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20210327-WA0011.jpg)
 bbbb
 
@@ -207,7 +209,7 @@ bbbb
 bbbb
 
 ## project of fogging handheld improvement demo
-
+## contact <cschew@live.com.my> for further convincing development.
 ![IMG-20221001-WA0029.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20221001-WA0029.jpg)
 bbbb
 
