@@ -82,7 +82,7 @@ bbbb
 
 [▶️ VID20240405171247.mp4](https://youtu.be/ZCIW-cH3Q1Q)
 bbbb
-
+![VID20240405171347.png](https://youtu.be/Mu7Ek35HVEY)
 [▶️ VID20240405171347.mp4](https://youtu.be/Mu7Ek35HVEY)
 bbbb
 
