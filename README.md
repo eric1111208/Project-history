@@ -178,7 +178,7 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 [▶️ VID20230114142040.mp4](https://youtube.com/watch?v=VID20230114142040)
 <br>bbbb <br>
 
-[▶️ VID_20220401_172010.mp4](https://youtube.com/shorts/5KLIw6xYNqE)
+[▶️ VID_20220401_172010.mp4](https://youtu.be/_sv8uFtvpTs)
 <br>bbbb <br>
 
 ## Design and modify to automate the rod forging and bending machine 
