@@ -11,14 +11,14 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 [▶️ 20160419_002946.mp4](https://youtube.com/shorts/GKVjsKTTdxI?feature=share)
 <br>bbbb 11: repairing of tracing signal to oscilloscope<br>
 
-[▶️ 20170410_111849.mp4](https://youtube.com/watch?v=20170410_111849)
+[▶️ 20170410_111849.mp4](https://youtu.be/RDeboo0TuE0)
 <br>bbbb 12<br>
 
 ![20170512_101035.jpg](https://github.com/eric1111208/Project-history/raw/main/20170512_101035.jpg)
 <br>bbbb 13: a project of using Atmel mcu, i2c to read voltage, using dragon programmer,
 <br>
 
-[▶️ 20170519_094810.mp4](https://youtube.com/watch?v=20170519_094810)
+[▶️ 20170519_094810.mp4](https://youtube.com/shorts/vRRLVM5mNAk)
 <br>bbbb 14<br>
 
 ![20170519_154225.jpg](https://github.com/eric1111208/Project-history/raw/main/20170519_154225.jpg)
@@ -152,10 +152,10 @@ controllable volume of liquid.
 [▶️ VID20230103192935.mp4  (https://youtu.be/Z8j4QaL_sjs))](https://youtube.com/shorts/Z8j4QaL_sjs)
 <br>bbbb 63<br>
 
-[▶️ VID20230314094243.mp4](https://youtube.com/watch?v=VID20230314094243)
+[▶️ VID20230314094243.mp4](https://youtube.com/shorts/1MBHD7HlKn4)
 <br>bbbb 65<br>
 
-[▶️ VID20230328152657.mp4](https://youtube.com/watch?v=VID20230328152657)
+[▶️ VID20230328152657.mp4](https://youtube.com/shorts/V4rk8RdDyMA)
 <br>bbbb 66<br>
 
 ## Design and build of 1 set agriculture used Auto spray water cart
@@ -210,11 +210,9 @@ water spraying : electric valves for switching water deliver to diffence row to 
 [▶️ VID-20221230-WA0001.mp4](https://youtube.com/shorts/yg_HtFmRZPA)
 <br>bbbb 83 <br>
 
-[▶️ VID-20230112-WA0017.mp4](https://youtube.com/shorts/0nwsX2CrW2k)
-<br>bbbb 84<br>
+[▶️ VID-20230112-WA0017.mp4](https://youtube.com/shorts/nbSobHuz950)
+<br>bbbb 84 inlet of shredder<<br>
 
-[▶️ VID20230112150513.mp4  (https://youtube.com/shorts/nbSobHuz950)
-<br>bbbb 85: inlet of shredder<br>
 
 ## project of fogging handheld improvement demo
 ## contact <cschew@live.com.my> for further convincing development.
