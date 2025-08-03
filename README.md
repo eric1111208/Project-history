@@ -55,6 +55,7 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 
 <br>
 
+<!-- 
 [▶️ VID-20240124-WA0011.mp4](https://youtube.com/watch?v=VID-20240124-WA0011)
 <br>bbbb 24b:<br>
 
@@ -63,6 +64,7 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 
 [▶️ VID-20240216-WA0049.mp4](https://youtube.com/watch?v=VID-20240216-WA0049)
 <br>bbbb 26<br>
+ -->
 
 [▶️ VID20240124141749.mp4 (https://youtu.be/NRSwOKZVqGQ)
 
@@ -111,7 +113,7 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 <br>bbbb 34<br>
 
 ## Design and build for 1 set of viscosity liquid  volume control dispensing machine
-
+<!--
 [▶️ 20160903_150409.mp4](https://youtube.com/watch?v=20160903_150409)
 <br>bbbb 41<br>
 
@@ -120,6 +122,7 @@ Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut
 
 [▶️ 20161123_134735.mp4](https://youtube.com/watch?v=20161123_134735)
 <br>bbbb 43<br>
+ -->
 
 ![20170501_133906.jpg](https://github.com/eric1111208/Project-history/raw/main/20170501_133906.jpg)
 <br>bbbb 44:hmi panel for operation of liquid dispensing control by servo motor to dispense
@@ -163,9 +166,10 @@ controllable volume of liquid.
 [▶️ VID20230103192935.mp4  (https://youtu.be/Z8j4QaL_sjs))](https://youtube.com/shorts/Z8j4QaL_sjs)
 <br>bbbb 63<br>
 
-
+<!--
 [▶️ VID20230314094243.mp4](https://youtube.com/watch?v=VID20230314094243)
 <br>bbbb 65<br>
+ -->
 
 [▶️ VID20230328152657.mp4](https://youtube.com/watch?v=VID20230328152657)
 <br>bbbb 66<br>
@@ -198,7 +202,7 @@ water spraying : electric valves for switching water deliver to diffence row to 
 
 ## Design and modify to automate the rod forging and bending machine 
 
-[▶️ 20160415_131354.mp4](https://youtube.com/watch?v=20160415_131354)
+[▶️ 20160415_131354.mp4](https://youtube.com/shorts/hJwR7r-stak)
 <br>bbbb 76<br>
 
 ## Design for Monorail Bogie Mechanical system tester 
@@ -221,8 +225,10 @@ water spraying : electric valves for switching water deliver to diffence row to 
 [▶️ VID-20221230-WA0001.mp4](https://youtube.com/shorts/yg_HtFmRZPA)
 <br>bbbb 83 <br>
 
+<!--
 [▶️ VID-20230112-WA0017.mp4](https://youtube.com/watch?v=VID-20230112-WA0017)
 <br>bbbb 84<br>
+ -->
 
 [▶️ VID20230112150513.mp4  (https://youtube.com/shorts/R8JoEZ_8bhc)
 <br>bbbb 85: inlet of shredder<br>
@@ -232,11 +238,13 @@ water spraying : electric valves for switching water deliver to diffence row to 
 ![IMG-20221001-WA0029.jpg](https://github.com/eric1111208/Project-history/raw/main/IMG-20221001-WA0029.jpg)
 <br>bbbb 91: signal control <br>
 
+<!--
 [▶️ VID20230805000519.mp4](https://youtube.com/watch?v=VID20230805000519)
 <br>bbbb 92<br>
 
 [▶️ VID20230805001505.mp4](https://youtube.com/watch?v=VID20230805001505)
 <br>bbbb 93<br>
+ -->
 ## 📂 Project Repository
 
 Goto Main Page [index.html](https://eric1111208.github.io/Blip2-demo-of-bolt-Nut/)
